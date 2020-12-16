@@ -11,7 +11,7 @@ Recreate the famous game Pong in HTML
 * Game should be winnable and replayable
 
 ## Final Product
-After downloading game files, player should read instructions at the top of the website.
+After downloading game file, player should read instructions at the top of the website.
 
 ![](images/Pong_Direction's.png)
 
