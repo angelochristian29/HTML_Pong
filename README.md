@@ -1,5 +1,5 @@
 # HTML_Pong
-My rendition of the game Pong in a HTML website
+My rendition of the game Pong in an HTML website
 
 ## Task
 Recreate the famous game Pong in HTML
