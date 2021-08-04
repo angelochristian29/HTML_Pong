@@ -2,7 +2,7 @@
 My rendition of the game Pong in an HTML website
 
 ## Task
-Recreate the famous game Pong in HTML
+Recreate the famous game Pong in HTML and JavaScript
 
 ## Criteria
 * Make a HTML based website that includes the game
